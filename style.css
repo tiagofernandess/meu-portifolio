@@ -402,6 +402,12 @@ h4 {
 		padding-top: 10px;
 	}
 
+	header .topo-links {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+
 	.info-banner  {
 		display: flex;
 		flex-direction: column-reverse;
@@ -434,6 +440,10 @@ h4 {
 	@media screen and (min-width: 320px) {
 		nav {
 			font-size: 12px;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+
 		}
 
 		.info-banner img {
