@@ -331,7 +331,7 @@ figcaption {
 .container-contato{
 	margin: 15px auto;
 	display: flex;
-	text-align: center;	
+	text-align: center;
 	
 }
 
@@ -360,10 +360,12 @@ h4 {
 
 .container-contato p {
 	color: white;
+	text-decoration: none;
 }
 
 .container-contato p {
 	color: white;
+	text-decoration: none;
 }
 
 .fundo-img-contato {
