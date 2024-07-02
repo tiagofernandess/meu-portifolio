@@ -96,7 +96,7 @@ header .container-topo {
 }
 
 .info-banner img {
-	width: 450px;
+	width: 350px;
 	padding-top: 40px;
 }
 
@@ -431,10 +431,6 @@ h4 {
 		justify-content: center;
 	}
 
-	.secao-banner {
-		padding-top: 20px;
-	}
-
 	.info-banner  {
 		display: flex;
 		flex-direction: column-reverse;
@@ -470,15 +466,11 @@ h4 {
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
-		
 
-		}
-
-		.secao-banner {
-			padding-top: 20px;
 		}
 
 		.info-banner img {
+			padding-top: 20px;
 			width: 300px;
 		}
 
