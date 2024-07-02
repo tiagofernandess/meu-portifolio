@@ -25,12 +25,8 @@ header .container-topo {
 	padding: 0px 10px;
 }
 
-.topo-titulo a {
-	font-size: 30px;
-	text-decoration: none;
-	font-weight: bold;
-	color: white;
-	
+.topo-titulo img {
+	width: 30px;		
 }
 
 .topo-titulo a span {
