@@ -258,10 +258,22 @@ figcaption {
 
 .img-tecnologias {
 	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 5px;
+	padding-bottom: 10px;
+	
+}
+
+.img-tecnologias p {
+	font-size: 13px;
+	color: white;
+
 }
 
   .img-tecnologias img {
-	width: 30px;
+	width: 20px;
 }
 
 .box-projetos a {
