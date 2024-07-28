@@ -176,7 +176,7 @@ header .container-topo {
 }
 
 .container-habilidades img {
-	width: 100px;
+	width: 70px;
 	border-radius: 10px 10px 0px 0px;
 }
 
@@ -201,7 +201,7 @@ figcaption {
 
 .card p {
 	width: 200px;
-	padding-top: 15px;
+	padding-top: 10px;
 	font-size: 14px;
 }
 
@@ -450,7 +450,6 @@ h4 {
 
 	.card {
 		width: calc(100% / 2 - 20px); 
-	
 		
 	}	
 
